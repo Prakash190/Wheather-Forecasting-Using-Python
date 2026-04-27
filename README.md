@@ -5,13 +5,7 @@
 A modern GUI-based Weather Application built using Python and Tkinter.  
 It provides real-time weather updates, timezone-based local time, and a 3-day forecast.
 
----
 
-## 📸 Preview
-
-![App Screenshot]("C:\Users\PRAKASH EKATPURE\Pictures\Screenshots\whether forecast.png")
-
----
 
 ## 🚀 Features
 
