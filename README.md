@@ -9,7 +9,7 @@ It provides real-time weather updates, timezone-based local time, and a 3-day fo
 
 ## 📸 Preview
 
-[App Screenshot]("C:\Users\PRAKASH EKATPURE\Pictures\Screenshots\whether forecast.png")
+[App Screenshot](whether forecast.png)
 
 ---
 
